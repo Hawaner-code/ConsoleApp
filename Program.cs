@@ -11,6 +11,7 @@ namespace ConsoleApp
             Console.WriteLine("Saba!");
             Console.WriteLine("Nel!");
             Console.WriteLine("Staś!");
+            Console.WriteLine("Stadfgdfgdfgdgdś!");
         }
     }
 }
